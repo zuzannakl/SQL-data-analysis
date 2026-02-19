@@ -21,4 +21,4 @@ Working with relational databases:
 Database management and data manipulation:
 - table creation
 - data updates and migrations
-- - data cleanup operations
+- data cleanup operations
